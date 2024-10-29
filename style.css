@@ -1,0 +1,24 @@
+#social{width:90px;background:url("images/social_bg.gif") no-repeat left top #d8d8c7;float:right;margin-right:-10px;position:relative;z-index:2;margin-left:12px}
+#social h2{font-size:1.8em;color:#89897c;padding:10px;margin:0;margin-right:-10px}
+div#social ul{background:url("images/social_bg.gif") no-repeat left bottom;font-size:.85em;margin:0}
+div#social ul li{height:21px;line-height:22px;border-bottom:1px solid #ccccbc;list-style:none;padding:0;margin:0;margin-right:0}
+div#social ul li a{color:#89897c;display:block;padding-left:22px;height:22px;background:url("images/social_list.png") no-repeat}
+
+/* Change below line with the above one if there is something wrong with layout of plugin in your theme
+div#social ul li a{color:#89897c;display:block;padding-left:22px;margin-bottom:25px;margin-top:-25px;height:22px;background:url("images/social_list.png") no-repeat}
+*/
+
+#social li.digg a{background-position:0 3px}
+#social li.beamark a{background-position:0 -21px}
+#social li.technorati a{background-position:0 -45px}
+#social li.delicious a{background-position:0 -69px}
+#social li.facebook a{background-position:0 -93px}
+#social li.stumbleupon a{background-position:0 -117px}
+#social li.reddit a{background-position:0 -141px}
+#social li.digg a:hover{background-position:0 -163px}
+#social li.beamark a:hover{background-position:0 -187px}
+#social li.technorati a:hover{background-position:0 -211px}
+#social li.delicious a:hover{background-position:0 -235px}
+#social li.facebook a:hover{background-position:0 -259px}
+#social li.stumbleupon a:hover{background-position:0 -283px}
+#social li.reddit a:hover{background-position:0 -307px}
